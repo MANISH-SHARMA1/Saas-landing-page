@@ -1,0 +1,36 @@
+.faqs {
+  padding-bottom: 1vh;
+  color: white;
+  background-color: rgb(2, 2, 2);
+  background-color: black;
+}
+
+
+#h1 {
+    font-size: 3em;
+    padding: 5% 0;
+    text-align: center;
+}
+
+.questions {
+  text-align: left;
+  border: 1px solid black;
+  border-radius: 25px;
+  margin: 5vh 10vw;
+  background-color: rgb(44, 41, 41);
+  padding: 15px;
+  .question {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+
+  p {
+    font-weight: 600;
+  }
+  #answer {
+    color: white;
+    font-weight: 400;
+    font-size: 1.1rem;
+  }
+}

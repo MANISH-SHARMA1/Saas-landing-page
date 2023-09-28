@@ -1,0 +1,110 @@
+.background {
+  background-image: url(../../assets/hero.jpg);
+  height: 100vh;
+  width: auto;
+  color: white;
+}
+
+.top {
+  display: flex;
+  justify-content: space-around;
+}
+
+#netflix {
+  color: red;
+  background-color: rgba(0, 0, 0, 0.479);
+  border-radius: 5px;
+  font-size: 3rem;
+  font-weight: 800;
+  margin: 0;
+  padding: 0 5px;
+}
+#netflix:hover{
+  cursor: pointer;
+}
+
+#language {
+  color: white;
+  background-color: rgba(0, 0, 0, 0.479);
+  border: none;
+  padding: 10px;
+  margin-right: 20px;
+  border-radius: 5px;
+  font-size: 1rem;
+  font-weight: 500;
+}
+
+#language:hover {
+  cursor: pointer;
+}
+
+#btnn {
+  color: white;
+  background-color: red;
+  border: none;
+  width: 7vw;
+  padding: 10px;
+  border-radius: 5px;
+  font-size: 1rem;
+  font-weight: 600;
+}
+
+#btnn:hover {
+  color: whitesmoke;
+  background-color: rgba(227, 16, 16, 0.893);
+  cursor: pointer;
+}
+
+.down {
+  text-align: center;
+  margin-top: 25vh;
+  color: white;
+  font-size: 2.5rem;
+  font-weight: 800;
+}
+
+h5 {
+  font-size: 1.7rem;
+  font-weight: 800;
+  margin: 5vh 0;
+}
+
+#email {
+  border: 0.5px solid white;
+  color: white;
+  padding: 20px;
+  font-size: 0.9rem;
+  font-weight: 600;
+  background-color: rgba(0, 0, 0, 0.479);
+  margin-right: 30px;
+  border-radius: 5px;
+  width: 20vw;
+}
+
+#bttnn {
+  color: white;
+  padding: 20px;
+  border: none;
+  font-size: 1rem;
+  font-weight: 600;
+  border-radius: 10px;
+  background-color: red;
+}
+
+#bttnn:hover {
+  background-color: rgba(227, 16, 16, 0.893);
+  cursor: pointer;
+  color: whitesmoke;
+}
+
+@media only screen and (max-width: 1004px) {
+  #btnn{
+    width: 15vw;
+  }
+}
+
+@media only screen and (max-width: 468px){
+  #btnn{
+    width: 25vw;
+  }
+}

@@ -1,0 +1,6 @@
+/* Here I imports the tailwind css into my project root css file. */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
