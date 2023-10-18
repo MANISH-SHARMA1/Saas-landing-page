@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/Saas-landing-page/static/css/main.1aab5967.css",
+    "main.js": "/Saas-landing-page/static/js/main.76c26f1f.js",
+    "static/media/hero.jpg": "/Saas-landing-page/static/media/hero.cd024e673ad03fb5d301.jpg",
+    "static/media/kid.png": "/Saas-landing-page/static/media/kid.836efd88498e14ebed8e.png",
+    "static/media/device-pile-in.png": "/Saas-landing-page/static/media/device-pile-in.ff81d825b399d890f9b4.png",
+    "static/media/mobile-0819.jpg": "/Saas-landing-page/static/media/mobile-0819.063578d5b6d5ab4155ec.jpg",
+    "static/media/ElChapo.jpg": "/Saas-landing-page/static/media/ElChapo.b5c4823a129ec3d2726d.jpg",
+    "static/media/Naruto.jpg": "/Saas-landing-page/static/media/Naruto.1683a91e2570d7657621.jpg",
+    "static/media/PeakyBlinders.jpg": "/Saas-landing-page/static/media/PeakyBlinders.d0f92cb8e37302e3a8f7.jpg",
+    "static/media/LostInSpace.jpg": "/Saas-landing-page/static/media/LostInSpace.fb0ae038ee40c2b41b86.jpg",
+    "static/media/Wednesday.jpg": "/Saas-landing-page/static/media/Wednesday.545cc908fe7d8d8ca850.jpg",
+    "static/media/Vikings.jpg": "/Saas-landing-page/static/media/Vikings.1b56f8b1d0f66839f780.jpg",
+    "static/media/TheWitcher.jpg": "/Saas-landing-page/static/media/TheWitcher.6ba1c1dca02287ad0311.jpg",
+    "static/media/TheVampireDiaries.jpg": "/Saas-landing-page/static/media/TheVampireDiaries.fdba99219831e2e02d56.jpg",
+    "static/media/MoneyHeist.jpg": "/Saas-landing-page/static/media/MoneyHeist.abc955f517ef4f78915d.jpg",
+    "static/media/BetterCallSaul.jpg": "/Saas-landing-page/static/media/BetterCallSaul.a22e07fe0648eac85f2f.jpg",
+    "index.html": "/Saas-landing-page/index.html",
+    "main.1aab5967.css.map": "/Saas-landing-page/static/css/main.1aab5967.css.map",
+    "main.76c26f1f.js.map": "/Saas-landing-page/static/js/main.76c26f1f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1aab5967.css",
+    "static/js/main.76c26f1f.js"
+  ]
+}
